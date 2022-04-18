@@ -1,7 +1,17 @@
-## Kagle
+## Kaggle
 
 ### 1. House pricing
 
-1. 범주형 변수 라벨 인코딩
-2. 수치형 변수 minmax 정규화
-3. linear regression 모델 사용
+1. Encoding categorical variable into label
+2. Normalize the input numerical variables 
+3. Modelling in linear regression
+
+<br/>
+
+### 2. SMS spam collection
+
+1. Feature engineering
+2. Vectorization
+3. TF-IDF
+4. Naive Bayes classifier 
+5. Store a pipeline of workflow
