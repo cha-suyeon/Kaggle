@@ -19,3 +19,5 @@
 <br/>
 
 ### Iris
+1. Projection
+2. Manifold learning
