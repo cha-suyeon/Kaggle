@@ -18,6 +18,6 @@
 
 <br/>
 
-### Iris
+### 3. Iris
 1. Projection
 2. Manifold learning
