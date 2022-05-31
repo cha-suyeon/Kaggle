@@ -1,6 +1,6 @@
 ## Kaggle
 
-### 1. House pricing
+## 1. House pricing
 
 - [House Prices Prediction](https://www.kaggle.com/code/ataneja2/house-prices-prediction/notebook)
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-### 3. Iris
+## 3. Iris
 
 - [Iris Species](https://www.kaggle.com/datasets/uciml/iris)
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-### 4. MNIST
+## 4. MNIST
 
 - [MNIST Tutorial Machine Learning Challenge](https://www.kaggle.com/c/mnist-tutorial-machine-learning-challenge)
 
